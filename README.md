@@ -1,4 +1,4 @@
-# 🛡️ AI Cyber Defense Arena
+# AI Cyber Defense Arena
 
 > **A Deep Reinforcement Learning-Based Cybersecurity Defense Agent**
 
